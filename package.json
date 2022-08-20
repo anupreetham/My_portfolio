@@ -20,11 +20,13 @@
   },
   "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
+    "@parcel/css": "^1.12.2",
     "@parcel/transformer-sass": "^2.0.1",
     "parcel": "^2.7.0",
     "prettier": "^2.4.1"
   },
   "dependencies": {
+    "@parcel/transformer-css": "^2.7.0",
     "@popperjs/core": "^2.10.2",
     "bootstrap": "^5.1.3",
     "jquery": "^3.6.0",
